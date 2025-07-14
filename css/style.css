@@ -15,11 +15,13 @@
     background-color: yellow;
 }
 
+/*head della tabella */
 #tab-head {
     background-color: #23A8E4;
     color: white;
 }
 
+/*sfondo azzurro celle tabella */
 .light-blue-back{
     background-color: #B1E6F2;
 }
