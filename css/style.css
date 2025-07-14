@@ -52,6 +52,10 @@ h1 {
 }
 
 /*testo dentro immagini*/
-.white-p {
+.white-title {
     color: white;
 } 
+
+#caption {
+    font-size: 12px;
+}
