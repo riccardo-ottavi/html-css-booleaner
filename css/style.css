@@ -1,15 +1,16 @@
+/*intestazione pagina*/
 #page-header{
     background-color: #4EA1FF;
     height: 120px;
     background-image: url("../img/pattern.png");
     background-size: 27%;
 }
-
+/*logo booleaner*/
 #logo-booleaner{
     height: 40%;
     margin-top: 55px;
 }
-
+/*testo evidenziato*/
 .highlight{
     background-color: yellow;
 }
