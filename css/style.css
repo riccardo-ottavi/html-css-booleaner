@@ -23,3 +23,22 @@
 .light-blue-back{
     background-color: #B1E6F2;
 }
+
+/*immagine monitor con testo*/
+#potrebbe1{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+}
+
+/*immagine grafico con testo*/
+#potrebbe2{
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+}
+
+/*testo dentro immagini*/
+.white-p {
+    color: white;
+} 
